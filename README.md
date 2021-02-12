@@ -1,4 +1,4 @@
-# COMPENG 3SK3: Computer-Aided Engineering Project
+# COMPENG 3SK3: Computer-Aided Engineering Project #
 
 ### Minhaj Shah / 400119266
 ### February 14, 2021

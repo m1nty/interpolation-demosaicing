@@ -124,7 +124,7 @@ Note: If any errors come up about modules not being imported, please refer back 
 
 # Example
 
-### Orignal Image
+### Original Image
 ![image](https://user-images.githubusercontent.com/64797254/107816823-50c11680-6d43-11eb-8a0a-7d61d6f21863.png)
 
 ### Red Bayer CFA Mosaic Pattern

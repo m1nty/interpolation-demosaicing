@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4628a54-c408-4fa0-8956-33702582a0c2" name="Default Changelist" comment="" />
+    <list default="true" id="a4628a54-c408-4fa0-8956-33702582a0c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/light.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/lighthouse_no_hd.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bicubic.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/bicubic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interpolation.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/interpolation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mse.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/mse.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +26,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\14167\Desktop\School\Year 3\Winter 2021\3SK3\Project 1\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1oCam8nkRKjlAuwLEKO8gUWeMHK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,6 +45,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
@@ -296,7 +317,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612793182063</updated>
       <workItem from="1612793194509" duration="53520000" />
-      <workItem from="1613051113290" duration="43777000" />
+      <workItem from="1613051113290" duration="51177000" />
     </task>
     <servers />
   </component>
@@ -317,26 +338,30 @@
     </state>
     <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824/7.-1080.1920.1040@0.0.1536.824" timestamp="1613089636008" />
     <state x="693" y="-868" key="FileChooserDialogImpl/0.0.1536.824/7.-1080.1920.1040@7.-1080.1920.1040" timestamp="1613092313760" />
-    <state width="1493" height="227" key="GridCell.Tab.0.bottom" timestamp="1613162070409">
+    <state width="1493" height="193" key="GridCell.Tab.0.bottom" timestamp="1613341581950">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="227" key="GridCell.Tab.0.bottom/0.0.1536.824/7.-1080.1920.1040@0.0.1536.824" timestamp="1613162070409" />
     <state width="1877" height="262" key="GridCell.Tab.0.bottom/0.0.1536.824/7.-1080.1920.1040@7.-1080.1920.1040" timestamp="1613147155745" />
-    <state width="1493" height="227" key="GridCell.Tab.0.center" timestamp="1613162070409">
+    <state width="1493" height="193" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613341581950" />
+    <state width="1493" height="193" key="GridCell.Tab.0.center" timestamp="1613341581949">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="227" key="GridCell.Tab.0.center/0.0.1536.824/7.-1080.1920.1040@0.0.1536.824" timestamp="1613162070409" />
     <state width="1877" height="262" key="GridCell.Tab.0.center/0.0.1536.824/7.-1080.1920.1040@7.-1080.1920.1040" timestamp="1613147155744" />
-    <state width="1493" height="227" key="GridCell.Tab.0.left" timestamp="1613162070409">
+    <state width="1493" height="193" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613341581949" />
+    <state width="1493" height="193" key="GridCell.Tab.0.left" timestamp="1613341581949">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="227" key="GridCell.Tab.0.left/0.0.1536.824/7.-1080.1920.1040@0.0.1536.824" timestamp="1613162070409" />
     <state width="1877" height="262" key="GridCell.Tab.0.left/0.0.1536.824/7.-1080.1920.1040@7.-1080.1920.1040" timestamp="1613147155744" />
-    <state width="1493" height="227" key="GridCell.Tab.0.right" timestamp="1613162070409">
+    <state width="1493" height="193" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613341581949" />
+    <state width="1493" height="193" key="GridCell.Tab.0.right" timestamp="1613341581950">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="227" key="GridCell.Tab.0.right/0.0.1536.824/7.-1080.1920.1040@0.0.1536.824" timestamp="1613162070409" />
     <state width="1877" height="262" key="GridCell.Tab.0.right/0.0.1536.824/7.-1080.1920.1040@7.-1080.1920.1040" timestamp="1613147155744" />
+    <state width="1493" height="193" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613341581950" />
     <state x="468" y="-917" key="SettingsEditor" timestamp="1613092325273">
       <screen x="7" y="-1080" width="1920" height="1040" />
     </state>
@@ -359,7 +384,7 @@
     <SUITE FILE_PATH="coverage/Project_1$bayer__1_.coverage" NAME="bayer (1) Coverage Results" MODIFIED="1613061029559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Project_1$bicubic__1_.coverage" NAME="bicubic (1) Coverage Results" MODIFIED="1613052758634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Project_1$mse.coverage" NAME="mse Coverage Results" MODIFIED="1613077523841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Project_1$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1613162070401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/Project_1$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1613341581938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/Project_1$bicubic.coverage" NAME="bicubic Coverage Results" MODIFIED="1612883141814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Test 1" />
     <SUITE FILE_PATH="coverage/Project_1$3SK3_Project.coverage" NAME="3SK3_Project Coverage Results" MODIFIED="1612793636303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Project_1$interpolation.coverage" NAME="interpolation Coverage Results" MODIFIED="1613068172156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

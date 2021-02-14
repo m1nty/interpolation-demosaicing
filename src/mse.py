@@ -16,9 +16,3 @@ def mse(original_image, interpolated_image):
     g_mse/=height*width
 
     return (r_mse+b_mse+g_mse)/3
-
-def mse1(original_image, interpolated_image):
-    original_arr = np.asarray(original_image)
-    interpolated_arr = np.asarray(interpolated_image)
-    Y = np.square(np.subtract(original_arr,interpolated_arr)).mean()
-    return Y

@@ -15,6 +15,7 @@ def interpolation(r_img, g1_img, g2_img, b_img):
     for row in range(1, height, 2):
         for col in range(1, width, 2):
             sub_block = padded[row:row+7, col:col+7]
+            # Centripetal Catmull-Rom Spline Correction
             p = sub_block[::2, ::2].tolist()
             red_arr[row,col,0] = bicubic(p, 0.5, 0.5)
             red_arr[row-1,col,0] = bicubic(p, 0, 0.5)
@@ -32,6 +33,7 @@ def interpolation(r_img, g1_img, g2_img, b_img):
         for col in range(0, width-1, 2):
             sub_block = padded[row:row+7, col:col+7]
             p = sub_block[::2, ::2].tolist()
+            # Centripetal Catmull-Rom Spline Correction
             blue_arr[row,col,2] = bicubic(p, 0.5, 0.5)
             blue_arr[row+1,col,2] = bicubic(p, 1, 0.5)
             blue_arr[row,col+1,2] = bicubic(p, 0.5, 1)
@@ -48,6 +50,7 @@ def interpolation(r_img, g1_img, g2_img, b_img):
         for col in range(0, width-1, 2):
             sub_block = padded[row:row+7, col:col+7]
             p = sub_block[::2, ::2].tolist()
+            # Centripetal Catmull-Rom Spline Correction
             green1_arr[row,col,1] = bicubic(p, 0.5, 0.5)
             green1_arr[row-1,col,1] = bicubic(p, 0, 0.5)
             green1_arr[row,col+1,1] = bicubic(p, 0.5, 1)
@@ -62,6 +65,7 @@ def interpolation(r_img, g1_img, g2_img, b_img):
         for col in range(1, width, 2):
             sub_block = padded[row:row+7, col:col+7]
             p = sub_block[::2, ::2].tolist()
+            # Centripetal Catmull-Rom Spline Correction
             green2_arr[row,col,1] = bicubic(p, 0.5, 0.5)
             green2_arr[row+1,col,1] = bicubic(p, 1, 0.5)
             green2_arr[row,col-1,1] = bicubic(p, 0.5, 0)

@@ -1,7 +1,4 @@
-# COMPENG 3SK3: Computer-Aided Engineering Project #
-
-### Minhaj Shah / 400119266
-### February 14, 2021
+# Interpolation for Color Demosaicing of Digital Cameras #
 
 
 ## Setup Instructions for Python3 and Dependencies
